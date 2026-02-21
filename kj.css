@@ -1,34 +1,34 @@
-body{
-margin:0;
-font-family:Arial;
-background:#0f172a;
-color:white;
-text-align:center;
+body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+  margin: 0;
 }
 
-nav{
-background:#020617;
-padding:15px;
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 40px;
 }
 
-.hero{
-padding:100px 20px;
-background:linear-gradient(45deg,#06b6d4,#6366f1);
+h1 {
+  color: #38bdf8;
+  font-size: 40px;
 }
 
-button{
-padding:10px 20px;
-border:none;
-background:black;
-color:white;
-cursor:pointer;
+h2 {
+  color: #22c55e;
 }
 
-section{
-padding:40px;
+a {
+  color: #facc15;
+  text-decoration: none;
 }
 
-ul{
-list-style:none;
-padding:0;
+a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin-top: 40px;
 }
